@@ -29,7 +29,7 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- src/                             Source code used in the paper
      |
-     |--- documentation/                   Further structured documentation of the replication package content
+     |--- docs/                   		   Supplementary material and misc. documents
      |
      |--- data/                            Data used in the paper 
             |

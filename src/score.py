@@ -40,7 +40,7 @@ def min_max_scaling(data, min_val=1, max_val=10):
     return scaled_data
 
 def get_priorities_T(df):
-    skip_rows = 3 # no of rows to skip
+    skip_rows = 2 # no of rows to skip
     column_index = 1
     priorities_T = df.iloc[skip_rows:, column_index]
     priorities_T = priorities_T.reset_index(drop=True)
@@ -54,8 +54,8 @@ def get_priorities_DIM(df, priorities_T):
     row_index = 1
     priorities_DIM = df.iloc[row_index, skip_cols:]
     priorities_DIM = priorities_DIM.reset_index(drop=True)
-    # print('DIM Priority list')
-    # print(priorities_DIM)
+    #print('DIM Priority list')
+    #print(priorities_DIM)
     # priorities_DIM = normalize_dataframe(priorities_DIM, priorities_T.min(), priorities_T.max() )
     return priorities_DIM
 
@@ -80,8 +80,9 @@ def calculate_impact_score(priorities_T, priorities_DIM, impacts):
 
     for i in range(n):
         for j in range(m):
+            #print(f"Priority[i]: {priorities_T[i]} Priority[j]:{priorities_DIM[j]}  Impact: {impacts[i][j]}")
+            #print(f"Score: {(priorities_T[i] + priorities_DIM[j]) * impacts[i][j]}")
             score += (priorities_T[i] + priorities_DIM[j]) * impacts[i][j]
-            # print(f"Impacts {j} {i}  Score: {score}")
     # score = np.log1p(score)
     # score = round(score, 2)
     return score

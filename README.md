@@ -29,9 +29,7 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- src/                             Source code used in the paper
      |
-     |--- docs/                   		   Supplementary material and misc. documents
+     |--- docs/                   	   Supplementary material and misc. documents
      |
-     |--- data/                            Data used in the paper 
-            |
-            |--- additional_data/                      
-  
+     |--- data/                            Data used in the paper including templates, input and output data and results
+              

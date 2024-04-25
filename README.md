@@ -2,7 +2,7 @@
 
 
 ## Quick start
-Here a documentation on how to use the replication material should be provided.
+Here a documentation on how to use the replication material.
 
 ### Getting started
 

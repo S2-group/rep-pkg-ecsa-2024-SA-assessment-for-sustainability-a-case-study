@@ -41,7 +41,7 @@ Here, we provide step-by-step instructions on using this repository, including r
 	Example output:
  
 	![screenshot](data/SIS-DC-5.png)
-- Document the SISs as provided in [results][data/results.xlsx] for observing trade-offs
+- Document the SISs as provided in [results](data/results.xlsx) for observing trade-offs
 
 ### How to cite this work
 ```

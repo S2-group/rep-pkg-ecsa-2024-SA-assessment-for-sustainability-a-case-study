@@ -10,11 +10,11 @@ This is the root directory of the repository. The directory is structured as fol
     rep-pkg-sustainable-canvas
      .
      |
-     |--- src/                             Source code used in the paper
+     |--- src/		Source code to generate SIS
      |
-     |--- docs/                   	   Supplementary material and misc. documents
+     |--- docs/		Architecture documentation
      |
-     |--- data/                            Data used in the paper including templates, input and output data and results
+     |--- data/		Data used in the paper including templates, input and output data of intermediary steps, and results
            
 ### Getting started
 Here, we provide step-by-step instructions on using this repository, including requirements, and installation/script execution steps.

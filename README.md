@@ -44,10 +44,12 @@ Here, we provide step-by-step instructions on using this repository, including r
 - Document the SISs as provided in [results][data/results.xlsx] for observing trade-offs
 
 ### How to cite this work
-`@inproceedings{ecsa-2024-SA-assess-sus,
+```
+@inproceedings{ecsa-2024-SA-assess-sus,
   title={{Software Architecture Assessment for Sustainability: A Case Study}},
   author={Iffat Fatima and Patricia Lago},
   booktitle={Software Architecture},
   publisher={Springer Nature Switzerland},
   year={2024}
-}`
+}
+```

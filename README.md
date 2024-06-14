@@ -21,7 +21,7 @@ Here, we provide step-by-step instructions on using this repository, including r
 
 #### Instatiation of the [Blueprint](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f)
 
-Here we provide the steps involved in the SA assessment, inputs and outputs of each steps along with the resource used/produced. The detailed execution of steps can be found in our [previous work (SA evaluation Blueprint)](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f) and this paper. 
+Here we provide the steps involved in the SA assessment, inputs and outputs of each steps along with the resource used/produced. The detailed execution of steps can be found in our [previous work (SA evaluation Blueprint)](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f) and [this](https://research.vu.nl/en/publications/software-architecture-assessment-for-sustainability-a-case-study) paper. 
 
 <div style="font-size: 8px;">
 
@@ -77,6 +77,7 @@ Here we provide the steps involved in the SA assessment, inputs and outputs of e
 Document the SISs as provided in [results](data/results.xlsx) for observing trade-offs
 
 ### How to cite this work
+[Software Architecture Assessment for Sustainability: A Case Study](https://research.vu.nl/en/publications/software-architecture-assessment-for-sustainability-a-case-study)
 ```
 @inproceedings{fatima-2024-SA-assess-sus,
   title={{Software Architecture Assessment for Sustainability: A Case Study}},

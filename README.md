@@ -92,14 +92,12 @@ Document the SISs as provided in [results](data/results.xlsx) for observing trad
 ##### [A Review of Software Architecture Evaluation Methods for Sustainability Assessment](https://research.vu.nl/en/publications/a-review-of-software-architecture-evaluation-methods-for-sustaina)
 ```
 @inproceedings{fatima-2023-SA-eval-SLR,
-title = "A Review of Software Architecture Evaluation Methods for Sustainability Assessment",
-author = "Iffat Fatima and Patricia Lago",
-year = "2023",
-month = jan,
-day = "13",
-language = "English",
-booktitle = "2023 IEEE 20th International Conference on Software Architecture Companion (ICSA-C).",
-publisher = "IEEE",
+  author={Fatima, Iffat and Lago, Patricia},
+  booktitle={2023 IEEE 20th International Conference on Software Architecture Companion (ICSA-C)}, 
+  title={A Review of Software Architecture Evaluation Methods for Sustainability Assessment}, 
+  year={2023},
+  pages={191-194},
+  doi={10.1109/ICSA-C57050.2023.00050}
 }
 ```
 ##### [Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f)

@@ -88,7 +88,7 @@ Document the SISs as provided in [results](data/results.xlsx) for observing trad
 ```
 
 #### Our Preliminary work
-##### A Review of Software Architecture Evaluation Methods for Sustainability Assessment
+##### [A Review of Software Architecture Evaluation Methods for Sustainability Assessment](https://research.vu.nl/en/publications/a-review-of-software-architecture-evaluation-methods-for-sustaina)
 ```
 @inproceedings{fatima-2023-SA-eval-SLR,
 title = "A Review of Software Architecture Evaluation Methods for Sustainability Assessment",
@@ -101,7 +101,7 @@ booktitle = "2023 IEEE 20th International Conference on Software Architecture Co
 publisher = "IEEE",
 }
 ```
-##### Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services
+##### [Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f)
 ```
 @conference{441e98d5a88b4eb0a0207811a595c599,
 title = "Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services",

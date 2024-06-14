@@ -88,7 +88,7 @@ Document the SISs as provided in [results](data/results.xlsx) for observing trad
 }
 ```
 
-#### Our Preliminary work
+#### This publication is based on following preliminary work
 ##### [A Review of Software Architecture Evaluation Methods for Sustainability Assessment](https://research.vu.nl/en/publications/a-review-of-software-architecture-evaluation-methods-for-sustaina)
 ```
 @inproceedings{fatima-2023-SA-eval-SLR,

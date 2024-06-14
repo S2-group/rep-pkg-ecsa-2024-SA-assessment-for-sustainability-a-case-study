@@ -49,6 +49,10 @@ Here we provide the steps involved in the SA assessment, inputs and outputs of e
 </div>
 
 
+![steps](steps.gif)
+
+
+
 ### Generating a Sustainability Impact Score (SIS)
 
 #### Pre-requisites

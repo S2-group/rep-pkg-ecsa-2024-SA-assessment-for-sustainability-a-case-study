@@ -72,7 +72,7 @@ Here we provide the steps involved in the SA assessment, inputs and outputs of e
 
 #### Example output:
  
-	![screenshot](data/SIS-DC-5.png)
+![screenshot](data/SIS-DC-5.png)
  
 Document the SISs as provided in [results](data/results.xlsx) for observing trade-offs
 

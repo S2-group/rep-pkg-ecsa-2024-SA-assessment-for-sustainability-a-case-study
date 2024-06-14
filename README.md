@@ -21,7 +21,7 @@ Here, we provide step-by-step instructions on using this repository, including r
 
 #### Instatiation of the [Blueprint](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f)
 
-Here we provide the steps invollved in the SA assessment, inputs and outputs of each steps along with the resource used/produced. The detailed execution of steps can be found in our [previosu work (SA evaluation Blueprint)](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f) and this paper. 
+Here we provide the steps involved in the SA assessment, inputs and outputs of each steps along with the resource used/produced. The detailed execution of steps can be found in our [previous work (SA evaluation Blueprint)](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f) and this paper. 
 
 <div style="font-size: 8px;">
 
@@ -70,10 +70,11 @@ Here we provide the steps invollved in the SA assessment, inputs and outputs of 
 
 	This will provide the SIS for all options of DC-5 based on the DMatrix.
 
-	Example output:
+#### Example output:
  
 	![screenshot](data/SIS-DC-5.png)
-- Document the SISs as provided in [results](data/results.xlsx) for observing trade-offs
+ 
+Document the SISs as provided in [results](data/results.xlsx) for observing trade-offs
 
 ### How to cite this work
 ```

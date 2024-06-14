@@ -78,11 +78,38 @@ Document the SISs as provided in [results](data/results.xlsx) for observing trad
 
 ### How to cite this work
 ```
-@inproceedings{ecsa-2024-SA-assess-sus,
+@inproceedings{fatima-2024-SA-assess-sus,
   title={{Software Architecture Assessment for Sustainability: A Case Study}},
   author={Iffat Fatima and Patricia Lago},
   booktitle={Software Architecture},
   publisher={Springer Nature Switzerland},
   year={2024}
+}
+```
+
+#### Our Preliminary work
+##### A Review of Software Architecture Evaluation Methods for Sustainability Assessment
+```
+@inproceedings{fatima-2023-SA-eval-SLR,
+title = "A Review of Software Architecture Evaluation Methods for Sustainability Assessment",
+author = "Iffat Fatima and Patricia Lago",
+year = "2023",
+month = jan,
+day = "13",
+language = "English",
+booktitle = "2023 IEEE 20th International Conference on Software Architecture Companion (ICSA-C).",
+publisher = "IEEE",
+}
+```
+##### Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services
+```
+@conference{441e98d5a88b4eb0a0207811a595c599,
+title = "Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services",
+author = "Iffat Fatima and Patricia Lago",
+booktitle="Software Architecture. ECSA 2023 Tracks and Workshops",
+year="2023",
+publisher="Springer International Publishing",
+address="Cham",
+language = "English",
 }
 ```

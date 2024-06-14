@@ -102,7 +102,7 @@ Document the SISs as provided in [results](data/results.xlsx) for observing trad
 ```
 ##### [Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f)
 ```
-@conference{441e98d5a88b4eb0a0207811a595c599,
+@inproceedings{fatima-2023-SA-eval-BP,
 title = "Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services",
 author = "Iffat Fatima and Patricia Lago",
 booktitle="Software Architecture. ECSA 2023 Tracks and Workshops",

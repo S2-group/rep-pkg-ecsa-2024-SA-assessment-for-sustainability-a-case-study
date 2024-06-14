@@ -12,9 +12,9 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- src/		Source code to generate SIS
      |
-     |--- docs/		Architecture documentation
+     |--- docs/		Architecture documentation, input and output data of intermediary steps, etc.
      |
-     |--- data/		Data used in the paper including templates, input and output data of intermediary steps, and results
+     |--- data/		Data used in the paper including templates and final results
            
 ### Getting started
 Here, we provide step-by-step instructions on using this repository, including requirements, and installation/script execution steps.

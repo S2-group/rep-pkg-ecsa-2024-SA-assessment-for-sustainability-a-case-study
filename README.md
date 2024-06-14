@@ -46,6 +46,9 @@ Here, we provide step-by-step instructions on using this repository, including r
 #### Instatiation of the [Blueprint](https://research.vu.nl/en/publications/towards-a-sustainability-aware-software-architecture-evaluation-f)
 
 
+
+<div style="font-size: 12px;">
+
 | #  | Step                                       | Input                                 | Resource                                                                                                                                                       | Output                                | Resource                                                                                                                                                                                                                                                                                                                           |
 | -- | ------------------------------------------ | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Preparation                                | Information Slide Set                 | [Slides](docs/step1-slides.pptx)                                                                                                                                     | Stakeholders                          | Process director, architects, functional manager, network and traffic personal                                                                                                                                                                                                                                                     |
@@ -67,7 +70,7 @@ Here, we provide step-by-step instructions on using this repository, including r
 |    |                                            | Sustainability Impacts and Trade-offs | \- [DMatrix](data/dmatrix.xlsx)<br>\- [Sheet "Trade-offs with SIS"](data/results.xlsx)                                                                 |                                       |                                                                                                                                                                                                                                                                                                                                    |
 | 11 | Presentation of results                    | All inputs and outputs                | All resources                                                                                                                                                  | Evaluation Report                     | Paper                                                                                                                                                                                                                                                                                                                              |
 
-
+</div>
 
 
 ### How to cite this work
